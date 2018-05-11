@@ -90,8 +90,6 @@ def TiagonalMatrixSolve(A, B):
 	return x
     
     
-    # y' = z
-    # z' = 2y+4x^2e^x^2
 def main():
 
     dy = (lambda z: z)
